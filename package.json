@@ -28,7 +28,10 @@
     "url": "https://github.com/crazycodeboy/react-native-easy-toast/issues"
   },
   "peerDependencies": {
-    "react-native": ">=0.20.0"
+    "react-native": ">=0.44.0"
   },
-  "homepage": "https://github.com/crazycodeboy/react-native-easy-toast#readme"
+  "homepage": "https://github.com/crazycodeboy/react-native-easy-toast#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
 }
